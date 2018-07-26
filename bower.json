@@ -1,0 +1,17 @@
+{
+  "name": "jquery.mCustomScrollbar",
+  "version": "1.0.1",
+  "authors": [
+    "Nguyen Thanh Tung <tungbk.devjv@gmail.com>"
+  ],
+  "description": "",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tung3457/jquery.mCustomScrollbar.git",
+  "ignore": [
+    "README.md"
+  ]
+}
